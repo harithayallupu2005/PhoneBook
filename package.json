@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "axios-debug-log": "^1.0.0"
+  }
+}
